@@ -23,7 +23,7 @@ module.exports = {
     autoplay: "♾",
   },
   // others
-  mongodb: process.env.MONGO_URL || "mongodb+srv://jimmy01:MNsHRpAUgMIuTxOp@jimmy02.k6nkhqh.mongodb.net/data",
+  mongodb: process.env.MONGO_URL || "",
   filters: {
     clear: "dynaudnorm=f=200",
     lightbass: "bass=g=8,dynaudnorm=f=200",
@@ -73,7 +73,7 @@ module.exports = {
   links: {
     inviteURL:
       process.env.inviteURL ||
-      `https://discord.com/api/oauth2/authorize?client_id=879028905732870156&permissions=8&scope=bot%20applications.commands`,
+      ``,
     DiscordServer: process.env.DiscordServer || `https://discord.gg/tJSGAfttu7`,
     VoteURL: process.env.VoteURL || `https://discord.gg/tJSGAfttu7`,
     Website: `coming soon`,
@@ -98,6 +98,6 @@ module.exports = {
   ],
   slash: {
     global: true,
-    guildID: process.env.GUILD_ID || "582102984306196510", // for slash command
+    guildID: process.env.GUILD_ID || "", // for slash command
   },
 };
