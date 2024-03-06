@@ -62,13 +62,10 @@ GUILD_ID=
 - Support dj system
 - Work on replit and others vps
 
-## Music Bot Dashboard Setup
-
-[Click Here](https://github.com/kingplayz1/DarkBeat1)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server]()
+If you have any feedback, please reach out to us at [Discord Server](htts://discord.gg/DyB6vrXKen)
 
 ## License
 
