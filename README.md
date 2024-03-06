@@ -1,9 +1,7 @@
 
 # Hi, kingplayz. 👋
 
-I'm a Discord Bot Developer and here is mine Discord Music Bot
-
-# Advance Discord Music Bot
+I'm a Discord Bot Developer and Web Developer  
 
 
 ## **Installation | How to use the Bot**
@@ -65,7 +63,7 @@ GUILD_ID=
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server](htts://discord.gg/DyB6vrXKen)
+If you have any feedback or your getting and error  , please reach out to us at [Discord Server](htts://discord.gg/DyB6vrXKen)
 
 ## License
 
